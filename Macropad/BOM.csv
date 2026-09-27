@@ -1,16 +1,15 @@
-# Parts
-
-1. 1 × Custom PCB — [JLCPCB](https://jlcpcb.com/)
-2. 1 × Seeed XIAO RP2040 — [DigiKey](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010428/14672129) / [Seeed Studio](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)
-3. 16 × 1N4148W Diodes (SOD-123) — [DigiKey](https://www.digikey.ca/en/products/detail/smc-diode-solutions/1N4148W/6022450)
-4. 16 × Cherry MX-style Switches — [DigiKey](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4952/14113453) / [Adafruit](https://www.adafruit.com/product/4952)
-5. 16 × DSA-style Keycaps — [DigiKey](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4998/14552195) / [Adafruit](https://www.adafruit.com/product/4998)
-6. 1 × PEC11R Rotary Encoder — [DigiKey](https://www.digikey.ca/en/products/detail/bourns-inc/PEC11R-4215F-S0024/4499665) / [Adafruit](https://www.adafruit.com/product/377)
-7. 4 × NeoPixel 5050 LEDs (SK6812 or WS2812, 5 mm × 5 mm) — [DigiKey](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1655/5154679) / [Adafruit](https://www.adafruit.com/product/1655)
-8. 4 × 0.1 µF 0603 Capacitors (1608 Metric) — [DigiKey](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNNL/3894274)
-9. 1 × 74AHCT1G125 Level Shifter (SOT-23-5) — [DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/74AHCT1G125DBVTG4/1687957)
-10. 1 × PCF8574T-3-512 I/O Expander — [DigiKey](https://www.digikey.com/en/products/detail/nxp-usa-inc/PCF8574T-3-512/735690)
-11. 1 × 10 kΩ Resistor (0805, 2012 Metric) — [DigiKey](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805JG10K0/1757769)
-12. 1 × 4.7 kΩ Resistor (0805, 2012 Metric) — [DigiKey](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805JT4K70/1757774)
-13. 5 × M2 × 2.5 mm Screws
-14. 4 × Rubber Bumper Feet — [Adafruit](https://www.adafruit.com/product/550)
+Quantity,Part,Description,Link
+1,Custom PCB,Custom PCB,JLCPCB
+1,Seeed XIAO RP2040,Microcontroller,Seeed Studio
+16,1N4148W,Diode SOD-123,DigiKey
+16,Cherry MX,MX-style switch,Adafruit
+16,DSA Keycap,DSA-style keycap,Adafruit
+1,PEC11R,Rotary encoder,Adafruit
+4,SK6812/WS2812,NeoPixel 5050,DigiKey
+4,0.1uF,0603 capacitor,DigiKey
+1,74AHCT1G125,Level shifter,DigiKey
+1,PCF8574T,IO expander,DigiKey
+1,10kΩ,0805 resistor,DigiKey
+1,4.7kΩ,0805 resistor,DigiKey
+5,M2 x 2.5mm,Screw,
+4,Rubber feet,Bumper feet,Adafruit
